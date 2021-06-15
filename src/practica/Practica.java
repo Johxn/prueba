@@ -5,6 +5,8 @@
  */
 package practica;
 
+import javax.swing.JFrame;
+
 /**
  *
  * @author Estudiante
@@ -16,6 +18,9 @@ public class Practica {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        Fromulario llamar = new Fromulario();
+        llamar.setVisible(true);
+        llamar.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
     }
     
 }
