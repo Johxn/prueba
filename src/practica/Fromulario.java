@@ -39,7 +39,7 @@ public class Fromulario extends javax.swing.JFrame {
         jButton1.setText("SALUTE");
 
         jLabel2.setFont(new java.awt.Font("Tw Cen MT", 3, 14)); // NOI18N
-        jLabel2.setText("Me lo agradecerá :)");
+        jLabel2.setText("Y notarás la diferencia owo");
 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
         getContentPane().setLayout(layout);

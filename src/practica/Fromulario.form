@@ -77,7 +77,7 @@
         <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
           <Font name="Tw Cen MT" size="14" style="3"/>
         </Property>
-        <Property name="text" type="java.lang.String" value="Me lo agradecer&#xe1; :)"/>
+        <Property name="text" type="java.lang.String" value="Y notar&#xe1;s la diferencia owo"/>
       </Properties>
     </Component>
   </SubComponents>
